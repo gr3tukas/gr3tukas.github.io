@@ -8,11 +8,73 @@
     <link>https://gr3tukas.github.io/</link>
     <description>Recent content on Mano tinklalapis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2024 13:12:37 +0200</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Mar 2024 13:34:27 +0200</lastBuildDate>
     
 	<atom:link href="https://gr3tukas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://gr3tukas.github.io/about/</link>
+      <pubDate>Thu, 28 Mar 2024 13:34:27 +0200</pubDate>
+      
+      <guid>https://gr3tukas.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Informacinės sistemos - informacijos apdorojimo sistemos ir organizacijos išteklių visuma, skirta informacijai apdoroti, formuoti, skleisti.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>https://gr3tukas.github.io/information/</link>
+      <pubDate>Thu, 28 Mar 2024 13:34:27 +0200</pubDate>
+      
+      <guid>https://gr3tukas.github.io/information/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Šiandien yra saulėta diena:)
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Katukas</title>
+      <link>https://gr3tukas.github.io/posts/katukas/</link>
+      <pubDate>Thu, 28 Mar 2024 13:34:27 +0200</pubDate>
+      
+      <guid>https://gr3tukas.github.io/posts/katukas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+Kodas skirtas rasti didžiausią skaičių tarp trijų galimų
+#include &amp;lt;iostream&amp;gt; using namespace std; int main() { double n1, n2, n3; cout &amp;lt;&amp;lt; &amp;#34;Enter three numbers: &amp;#34;; cin &amp;gt;&amp;gt; n1 &amp;gt;&amp;gt; n2 &amp;gt;&amp;gt; n3; // check if n1 is the largest number if(n1 &amp;gt;= n2 &amp;amp;&amp;amp; n1 &amp;gt;= n3) cout &amp;lt;&amp;lt; &amp;#34;Largest number: &amp;#34; &amp;lt;&amp;lt; n1; // check if n2 is the largest number else if(n2 &amp;gt;= n1 &amp;amp;&amp;amp; n2 &amp;gt;= n3) cout &amp;lt;&amp;lt; &amp;#34;Largest number: &amp;#34; &amp;lt;&amp;lt; n2; // if neither n1 nor n2 are the largest, n3 is the largest else cout &amp;lt;&amp;lt; &amp;#34;Largest number: &amp;#34; &amp;lt;&amp;lt; n3; return 0; } 
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Tinklalapis</title>
@@ -28,7 +90,7 @@
         
         
         
-          blablabla
+          Laba diena
           
         
         </description>

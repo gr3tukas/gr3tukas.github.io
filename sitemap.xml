@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gr3tukas.github.io/about/</loc>
+    <lastmod>2024-03-28T13:34:27+02:00</lastmod>
+  </url><url>
+    <loc>https://gr3tukas.github.io/information/</loc>
+    <lastmod>2024-03-28T13:34:27+02:00</lastmod>
+  </url><url>
+    <loc>https://gr3tukas.github.io/posts/katukas/</loc>
+    <lastmod>2024-03-28T13:34:27+02:00</lastmod>
+  </url><url>
     <loc>https://gr3tukas.github.io/</loc>
-    <lastmod>2024-03-28T13:12:37+02:00</lastmod>
+    <lastmod>2024-03-28T13:34:27+02:00</lastmod>
   </url><url>
     <loc>https://gr3tukas.github.io/posts/</loc>
-    <lastmod>2024-03-28T13:12:37+02:00</lastmod>
+    <lastmod>2024-03-28T13:34:27+02:00</lastmod>
   </url><url>
     <loc>https://gr3tukas.github.io/posts/tinklalapis/</loc>
     <lastmod>2024-03-28T13:12:37+02:00</lastmod>
